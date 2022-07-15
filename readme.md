@@ -1,0 +1,1 @@
+redux练习项目，跟着[reactjs101](https://github.com/kdchang/reactjs101)写的，非常基础的react, redux实现的todolist,适合作为入门级项目。
